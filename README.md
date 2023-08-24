@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+⚡ My Tech Stack ⚡ 
 <p>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
