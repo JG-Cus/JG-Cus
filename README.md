@@ -30,24 +30,29 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <p>
-⚡ My Tech Stack ⚡ <br/>
+## ⚡ Once I've used ⚡ <br/>
  <p>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/selenium-92003B?style=flat-square&logo=selenium&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pandas-00CEC8?style=flat-square&logo=pandas&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-FF0000?style=flat-square&logo=Qt&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS3-48B0F1?style=flat-square&logo=CSS3&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white"></a>
  </p>
  <br/>
  <br/>
 </p>
 <p>
-⚡ My Main Work ⚡<br/>
+## ⚡ My Main Work ⚡<br/>
  📫 <a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
  <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a><span> [Private project on GitHub]</span>
  <br/>
@@ -56,10 +61,21 @@ Here are some ideas to get you started:
  <br/>
  <br/>
  <br/>
-
+ ## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:jgtradekr@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+<!--     <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a> -->
+</div><br>
 </p>
 
 [![JG-Cus GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true)](https://github.com/JG-Cus/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=nord&hide_border=true)](https://github.com/JG-Cus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=nord&hide_border=true&count-private=true)](https://github.com/JG-Cus/github-readme-stats)
 
