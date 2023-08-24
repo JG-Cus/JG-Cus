@@ -1,4 +1,4 @@
-👋 Hello, fellow developers and trade enthusiasts! 
+👋 <b>Hello, fellow developers and trade enthusiasts! </b>
 
 
  I'm JJ, a passionate Certified Customs Broker with a keen eye for trade intricacies. 🌐🛃
@@ -29,26 +29,38 @@ Here are some ideas to get you started:
 -->
 <br/>
 <br/>
-⚡ My Tech Stack ⚡ <br/>
 <p>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/selenium-92003B?style=flat-square&logo=selenium&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pandas-00CEC8?style=flat-square&logo=pandas&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-FF0000?style=flat-square&logo=Qt&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS3-48B0F1?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+⚡ My Tech Stack ⚡ <br/>
+ <p>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/selenium-92003B?style=flat-square&logo=selenium&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pandas-00CEC8?style=flat-square&logo=pandas&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-FF0000?style=flat-square&logo=Qt&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS3-48B0F1?style=flat-square&logo=CSS3&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+ </p>
+ <br/>
+ <br/>
 </p>
-<br/>
-<br/>
+<p>
 ⚡ My Main Work ⚡<br/>
-<a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
-<img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<br/>
-<br/>
+ 📫 <a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
+ <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+ <br/>
+ 🔭 <a href="https://db.jgtradeplus.com/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
+  <img src="https://img.shields.io/badge/Click_here-FF0000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+ <br/>
+ <br/>
+ <br/>
+
+</p>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
