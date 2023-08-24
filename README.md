@@ -1,18 +1,3 @@
-👋 <b>Hello, fellow developers and trade enthusiasts! </b>
-
-
- I'm JJ, a passionate Certified Customs Broker with a keen eye for trade intricacies. 🌐🛃
-
-🌐 As a specialized trade consultant and customs attorney, I thrive in the dynamic world of international commerce. Whether it's unraveling complex trade compliance puzzles or offering invaluable trade insights, I'm here to navigate the seas of global business.
-
-💼 When I'm not delving into trade matters, you'll find me crafting digital landscapes as a Full Stack Web-Service Developer. I'm fluent in the art of Django and Python, weaving intricate codes into functional and elegant websites.
-
-🚀 As an entrepreneur at heart, I thrive on innovation. My journey has led me to develop a groundbreaking web service: TradePlus Intelligence. This platform is your gateway to unparalleled business intelligence for international trade involving Korea. From transaction insights to import/export analytics, TradePlus Intelligence empowers you to make informed decisions in the ever-evolving global market.
-
-🔗 Connect with me on <a href="https://www.linkedin.com/in/jangju-goh-b3214a160" target="_blank"><img src="https://img.shields.io/badge/My LinkedIn Profile-3766AB?style=flat-square&logo=LinkedIn&logoColor=white"/></a> to explore my diverse expertise in Certified Customs brokerage, trade compliance, and web development. Let's collaborate and drive innovation at the intersection of trade and technology!
-
-Looking forward to exchanging ideas and insights with fellow GitHubbers. Together, let's build a world where trade thrives seamlessly in the digital age.
-
 <!--
 **JG-Cus/JG-Cus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👋 <b>Hello, fellow developers and trade enthusiasts! </b>
+
+
+ I'm JJ, a passionate Certified Customs Broker with a keen eye for trade intricacies. 🌐🛃
+
+🌐 As a specialized trade consultant and customs attorney, I thrive in the dynamic world of international commerce. Whether it's unraveling complex trade compliance puzzles or offering invaluable trade insights, I'm here to navigate the seas of global business.
+
+💼 When I'm not delving into trade matters, you'll find me crafting digital landscapes as a Full Stack Web-Service Developer. I'm fluent in the art of Django and Python, weaving intricate codes into functional and elegant websites.
+
+🚀 As an entrepreneur at heart, I thrive on innovation. My journey has led me to develop a groundbreaking web service: TradePlus Intelligence. This platform is your gateway to unparalleled business intelligence for international trade involving Korea. From transaction insights to import/export analytics, TradePlus Intelligence empowers you to make informed decisions in the ever-evolving global market.
+
+🔗 Connect with me on <a href="https://www.linkedin.com/in/jangju-goh-b3214a160" target="_blank"><img src="https://img.shields.io/badge/My LinkedIn Profile-3766AB?style=flat-square&logo=LinkedIn&logoColor=white"/></a> to explore my diverse expertise in Certified Customs brokerage, trade compliance, and web development. Let's collaborate and drive innovation at the intersection of trade and technology!
+
+Looking forward to exchanging ideas and insights with fellow GitHubbers. Together, let's build a world where trade thrives seamlessly in the digital age.
 <br/>
 <br/>
 <p>
