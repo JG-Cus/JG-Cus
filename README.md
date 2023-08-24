@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <p>
 ⚡ My Main Work ⚡<br/>
  📫 <a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
- <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a><span> [Private project on GitHub]</span>
  <br/>
  🔭 <a href="https://db.jgtradeplus.com/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
   <img src="https://img.shields.io/badge/Click_here-FF0000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&theme=radical)
+![JG-Cus' GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&include_all_commits=true&theme=cobalt&count_private=true))
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=nord&hide_border=true&langs_count=5)](https://github.com/JG-Cus/github-readme-stats)
 
