@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![JG-Cus' GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&include_all_commits=true&theme=cobalt&count_private=true))
+![JG-Cus' GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&include_all_commits=true&theme=cobalt&count_private=true)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=nord&hide_border=true&langs_count=5)](https://github.com/JG-Cus/github-readme-stats)
 
