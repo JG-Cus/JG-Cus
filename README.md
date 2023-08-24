@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/selenium-92003B?style=flat-square&logo=selenium&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pandas-00CEC8?style=flat-square&logo=pandas&logoColor=white"/></a>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-FF0000?style=flat-square&logo=Qt&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS3-48B0F1?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
