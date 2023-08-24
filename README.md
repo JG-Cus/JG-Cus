@@ -37,6 +37,8 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/selenium-92003B?style=flat-square&logo=selenium&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pandas-00CEC8?style=flat-square&logo=pandas&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Plotly-352A71?style=flat-square&logo=plotly&logoColor=white"/></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Chart.js-FFFC00?style=flat-square&logo=chartdotjs&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-FF0000?style=flat-square&logo=Qt&logoColor=white"/></a>
