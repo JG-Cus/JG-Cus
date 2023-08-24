@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 <br/>
-⚡ My Tech Stack ⚡ 
+⚡ My Tech Stack ⚡ <br/>
 <p>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -44,10 +44,11 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <br/>
-⚡ My Main Work ⚡
+⚡ My Main Work ⚡<br/>
 <a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
 <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-
+<br/>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
