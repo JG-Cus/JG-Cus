@@ -78,7 +78,7 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
 </div><br>
 </p>
 
-[![JG-Cus GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true)](https://github.com/JG-Cus/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&include_all_commits=true&theme=cobalt&hide_border=true&count_private=true)](https://github.com/JG-Cus/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=nord&hide_border=true&count-private=true)](https://github.com/JG-Cus/github-readme-stats)
 
