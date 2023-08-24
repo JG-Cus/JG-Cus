@@ -1,4 +1,7 @@
-👋 Hello, fellow developers and trade enthusiasts! I'm [Your Name], a passionate Certified Customs Broker with a keen eye for trade intricacies. 🌐🛃
+👋 Hello, fellow developers and trade enthusiasts! 
+
+
+ I'm JJ, a passionate Certified Customs Broker with a keen eye for trade intricacies. 🌐🛃
 
 🌐 As a specialized trade consultant and customs attorney, I thrive in the dynamic world of international commerce. Whether it's unraveling complex trade compliance puzzles or offering invaluable trade insights, I'm here to navigate the seas of global business.
 
@@ -24,7 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br/>
+<br/>
 ⚡ My Tech Stack ⚡ 
 <p>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -38,6 +42,12 @@ Here are some ideas to get you started:
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </p>
+<br/>
+<br/>
+⚡ My Main Work ⚡
+<a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
+<img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Cus&show_icons=true&theme=radical)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Cus&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
