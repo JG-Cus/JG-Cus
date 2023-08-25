@@ -59,7 +59,7 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
  📫 <a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
  <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a><span> [Private project on GitHub]</span>
  <br/>
- 🔭 <a href="https://db.jgtradeplus.com/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
+ 🔭 <a href="https://db.jgtradeplus.com/jgtp/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
   <img src="https://img.shields.io/badge/Click_here-FF0000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
  <br/>
  <br/>
