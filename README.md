@@ -90,7 +90,7 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
     <a href="https://db.jgtradeplus.com">JG Customs Dashboard | JGCD</a>
   </div>
   <div>
-   <a href="https://db.jgtradeplus.com/gtc-gi">관세법인 지티씨 경인지점</a>
+   <a href="https://db.jgtradeplus.com/npu_cus/">NPU Customs Consulting(NPU 관세사무소)</a>
   </div>
   <div>
    <a href="https://db.jgtradeplus.com/jgtp">JGTP</a>
