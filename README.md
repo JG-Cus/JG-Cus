@@ -58,10 +58,10 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
 </p>
 <p>
 ## ⚡ My Main Work ⚡<br/>
- 📫 <a href="https://db.jgtradeplus.com/" target="_blank">JG Customs Dashboard(JGCD) - International Business Intelligence Web-service 
+ 📫 <a href="https://www.tradenpu.com/" target="_blank">TradeNPU - International Business Intelligence Web-service 
  <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a><span> [Private project on GitHub]</span>
  <br/>
- 🔭 <a href="https://db.jgtradeplus.com/jgtp/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
+ 🔭 <a href="https://www.tradenpu.com/jgtp/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
   <img src="https://img.shields.io/badge/Click_here-FF0000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
  <br/>
  <br/>
@@ -87,12 +87,12 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
 <br>
 <p>
   <div>
-    <a href="https://db.jgtradeplus.com">JG Customs Dashboard | JGCD</a>
+    <a href="https://www.tradenpu.com">TradeNPU</a>
   </div>
   <div>
-   <a href="https://db.jgtradeplus.com/npu_cus/">NPU Customs Consulting [NPU 관세사무소]</a>
+   <a href="https://www.tradenpu.com/npu_cus/">NPU Customs Consulting [NPU 관세사무소]</a>
   </div>
   <div>
-   <a href="https://db.jgtradeplus.com/jgtp">JGTP</a>
+   <a href="https://www.tradenpu.com/jgtp">JGTP</a>
   </div>
 </p>
