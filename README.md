@@ -52,6 +52,7 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-7ED321?style=flat-square&logo=C&logoColor=white"></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"></a>
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Solidity-#363636?style=flat-square&logo=Arduino&logoColor=white"></a>  
  </p>
  <br/>
  <br/>
@@ -59,7 +60,7 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
 <p>
 ## ⚡ My Main Work ⚡<br/>
  📫 <a href="https://www.tradenpu.com/" target="_blank">TradeNPU - International Business Intelligence Web-service 
- <img src="https://img.shields.io/badge/JGCD-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a><span> [Private project on GitHub]</span>
+ <img src="https://img.shields.io/badge/TradeNPU-FFCD00?style=flat-square&logo=googlechrome&logoColor=white"/></a><span> [Private project on GitHub]</span>
  <br/>
  🔭 <a href="https://www.tradenpu.com/jgtp/" target="_blank">Are you looking for a reliable consultant or network partner for trade with Korea? 
   <img src="https://img.shields.io/badge/Click_here-FF0000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
