@@ -52,7 +52,7 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-7ED321?style=flat-square&logo=C&logoColor=white"></a>
    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"></a>
-   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Arduino&logoColor=white"></a>  
+   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"></a>  
  </p>
  <br/>
  <br/>
