@@ -91,9 +91,9 @@ Looking forward to exchanging ideas and insights with fellow GitHubbers. Togethe
     <a href="https://www.tradenpu.com">TradeNPU</a>
   </div>
   <div>
-   <a href="https://www.tradenpu.com/npu_cus/">NPU Customs Consulting [NPU 관세사무소]</a>
+   <a href="https://www.npucus.com/">NPU Customs Consulting [NPU 관세사무소]</a>
   </div>
   <div>
-   <a href="https://www.tradenpu.com/jgtp">JGTP</a>
+   <a href="https://www.jgtradeplus.com/">JGTP</a>
   </div>
 </p>
